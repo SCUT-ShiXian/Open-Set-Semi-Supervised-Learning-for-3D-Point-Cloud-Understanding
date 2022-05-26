@@ -1,5 +1,6 @@
 ## Open-Set-Semi-Supervised-Learning-for-3D-Point-Cloud-Understanding
 Created by <a href="https://github.com/SBXGary" target="_blank">Xian Shi</a> from South China University of Technology.
+![prediction example](./schematic_diagram_fn.gif)
 
 ### Introduction
 This work is based on our ICPR2022 paper <a href="https://arxiv.org/abs/2205.01006">Open-Set-Semi-Supervised-Learning-for-3D-Point-Cloud-Understanding</a>. 
